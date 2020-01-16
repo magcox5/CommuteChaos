@@ -1,50 +1,50 @@
 ,Epoch Time,Commute Time,Commute Date,Commute Start,Commute Name
-0,1583182800,2935,3/2/2020,13,Salesforce Tower to Moffett Field
-1,1583186400,3194,3/2/2020,14,Salesforce Tower to Moffett Field
-2,1583190000,3530,3/2/2020,15,Salesforce Tower to Moffett Field
-3,1583193600,3671,3/2/2020,16,Salesforce Tower to Moffett Field
-4,1583197200,4039,3/2/2020,17,Salesforce Tower to Moffett Field
-5,1583200800,3517,3/2/2020,18,Salesforce Tower to Moffett Field
-6,1583204400,2923,3/2/2020,19,Salesforce Tower to Moffett Field
-7,1583269200,2979,3/3/2020,13,Salesforce Tower to Moffett Field
-8,1583272800,3221,3/3/2020,14,Salesforce Tower to Moffett Field
-9,1583276400,3901,3/3/2020,15,Salesforce Tower to Moffett Field
-10,1583280000,4269,3/3/2020,16,Salesforce Tower to Moffett Field
-11,1583283600,4835,3/3/2020,17,Salesforce Tower to Moffett Field
-12,1583287200,3964,3/3/2020,18,Salesforce Tower to Moffett Field
-13,1583290800,3163,3/3/2020,19,Salesforce Tower to Moffett Field
-14,1583355600,3022,3/4/2020,13,Salesforce Tower to Moffett Field
-15,1583359200,3252,3/4/2020,14,Salesforce Tower to Moffett Field
-16,1583362800,3761,3/4/2020,15,Salesforce Tower to Moffett Field
-17,1583366400,4044,3/4/2020,16,Salesforce Tower to Moffett Field
-18,1583370000,4502,3/4/2020,17,Salesforce Tower to Moffett Field
-19,1583373600,3802,3/4/2020,18,Salesforce Tower to Moffett Field
-20,1583377200,3058,3/4/2020,19,Salesforce Tower to Moffett Field
-21,1583442000,3035,3/5/2020,13,Salesforce Tower to Moffett Field
-22,1583445600,3318,3/5/2020,14,Salesforce Tower to Moffett Field
-23,1583449200,3944,3/5/2020,15,Salesforce Tower to Moffett Field
-24,1583452800,4459,3/5/2020,16,Salesforce Tower to Moffett Field
-25,1583456400,4933,3/5/2020,17,Salesforce Tower to Moffett Field
-26,1583460000,4086,3/5/2020,18,Salesforce Tower to Moffett Field
-27,1583463600,3132,3/5/2020,19,Salesforce Tower to Moffett Field
-28,1583528400,3102,3/6/2020,13,Salesforce Tower to Moffett Field
-29,1583532000,3356,3/6/2020,14,Salesforce Tower to Moffett Field
-30,1583535600,3789,3/6/2020,15,Salesforce Tower to Moffett Field
-31,1583539200,3970,3/6/2020,16,Salesforce Tower to Moffett Field
-32,1583542800,4307,3/6/2020,17,Salesforce Tower to Moffett Field
-33,1583546400,3726,3/6/2020,18,Salesforce Tower to Moffett Field
-34,1583550000,3017,3/6/2020,19,Salesforce Tower to Moffett Field
-35,1583614800,2833,3/7/2020,13,Salesforce Tower to Moffett Field
-36,1583618400,2953,3/7/2020,14,Salesforce Tower to Moffett Field
-37,1583622000,3015,3/7/2020,15,Salesforce Tower to Moffett Field
-38,1583625600,3090,3/7/2020,16,Salesforce Tower to Moffett Field
-39,1583629200,3162,3/7/2020,17,Salesforce Tower to Moffett Field
-40,1583632800,3000,3/7/2020,18,Salesforce Tower to Moffett Field
-41,1583636400,2831,3/7/2020,19,Salesforce Tower to Moffett Field
-42,1583697600,2748,3/8/2020,13,Salesforce Tower to Moffett Field
-43,1583701200,2791,3/8/2020,14,Salesforce Tower to Moffett Field
-44,1583704800,2848,3/8/2020,15,Salesforce Tower to Moffett Field
-45,1583708400,2888,3/8/2020,16,Salesforce Tower to Moffett Field
-46,1583712000,3056,3/8/2020,17,Salesforce Tower to Moffett Field
-47,1583715600,2874,3/8/2020,18,Salesforce Tower to Moffett Field
-48,1583719200,2803,3/8/2020,19,Salesforce Tower to Moffett Field
+0,1583182800,2893,3/2/2020,13,"Salesforce Tower to Moffett Field, CA"
+1,1583186400,3196,3/2/2020,14,"Salesforce Tower to Moffett Field, CA"
+2,1583190000,3530,3/2/2020,15,"Salesforce Tower to Moffett Field, CA"
+3,1583193600,3673,3/2/2020,16,"Salesforce Tower to Moffett Field, CA"
+4,1583197200,4039,3/2/2020,17,"Salesforce Tower to Moffett Field, CA"
+5,1583200800,3519,3/2/2020,18,"Salesforce Tower to Moffett Field, CA"
+6,1583204400,2956,3/2/2020,19,"Salesforce Tower to Moffett Field, CA"
+7,1583269200,2955,3/3/2020,13,"Salesforce Tower to Moffett Field, CA"
+8,1583272800,3221,3/3/2020,14,"Salesforce Tower to Moffett Field, CA"
+9,1583276400,3901,3/3/2020,15,"Salesforce Tower to Moffett Field, CA"
+10,1583280000,4269,3/3/2020,16,"Salesforce Tower to Moffett Field, CA"
+11,1583283600,4837,3/3/2020,17,"Salesforce Tower to Moffett Field, CA"
+12,1583287200,3966,3/3/2020,18,"Salesforce Tower to Moffett Field, CA"
+13,1583290800,3163,3/3/2020,19,"Salesforce Tower to Moffett Field, CA"
+14,1583355600,2996,3/4/2020,13,"Salesforce Tower to Moffett Field, CA"
+15,1583359200,3254,3/4/2020,14,"Salesforce Tower to Moffett Field, CA"
+16,1583362800,3761,3/4/2020,15,"Salesforce Tower to Moffett Field, CA"
+17,1583366400,4046,3/4/2020,16,"Salesforce Tower to Moffett Field, CA"
+18,1583370000,4504,3/4/2020,17,"Salesforce Tower to Moffett Field, CA"
+19,1583373600,3804,3/4/2020,18,"Salesforce Tower to Moffett Field, CA"
+20,1583377200,3075,3/4/2020,19,"Salesforce Tower to Moffett Field, CA"
+21,1583442000,3016,3/5/2020,13,"Salesforce Tower to Moffett Field, CA"
+22,1583445600,3320,3/5/2020,14,"Salesforce Tower to Moffett Field, CA"
+23,1583449200,3946,3/5/2020,15,"Salesforce Tower to Moffett Field, CA"
+24,1583452800,4465,3/5/2020,16,"Salesforce Tower to Moffett Field, CA"
+25,1583456400,4935,3/5/2020,17,"Salesforce Tower to Moffett Field, CA"
+26,1583460000,4088,3/5/2020,18,"Salesforce Tower to Moffett Field, CA"
+27,1583463600,3134,3/5/2020,19,"Salesforce Tower to Moffett Field, CA"
+28,1583528400,3071,3/6/2020,13,"Salesforce Tower to Moffett Field, CA"
+29,1583532000,3358,3/6/2020,14,"Salesforce Tower to Moffett Field, CA"
+30,1583535600,3791,3/6/2020,15,"Salesforce Tower to Moffett Field, CA"
+31,1583539200,3972,3/6/2020,16,"Salesforce Tower to Moffett Field, CA"
+32,1583542800,4309,3/6/2020,17,"Salesforce Tower to Moffett Field, CA"
+33,1583546400,3726,3/6/2020,18,"Salesforce Tower to Moffett Field, CA"
+34,1583550000,3021,3/6/2020,19,"Salesforce Tower to Moffett Field, CA"
+35,1583614800,2820,3/7/2020,13,"Salesforce Tower to Moffett Field, CA"
+36,1583618400,2910,3/7/2020,14,"Salesforce Tower to Moffett Field, CA"
+37,1583622000,2998,3/7/2020,15,"Salesforce Tower to Moffett Field, CA"
+38,1583625600,3077,3/7/2020,16,"Salesforce Tower to Moffett Field, CA"
+39,1583629200,3164,3/7/2020,17,"Salesforce Tower to Moffett Field, CA"
+40,1583632800,3024,3/7/2020,18,"Salesforce Tower to Moffett Field, CA"
+41,1583636400,2822,3/7/2020,19,"Salesforce Tower to Moffett Field, CA"
+42,1583697600,2736,3/8/2020,13,"Salesforce Tower to Moffett Field, CA"
+43,1583701200,2778,3/8/2020,14,"Salesforce Tower to Moffett Field, CA"
+44,1583704800,2837,3/8/2020,15,"Salesforce Tower to Moffett Field, CA"
+45,1583708400,2869,3/8/2020,16,"Salesforce Tower to Moffett Field, CA"
+46,1583712000,3001,3/8/2020,17,"Salesforce Tower to Moffett Field, CA"
+47,1583715600,2852,3/8/2020,18,"Salesforce Tower to Moffett Field, CA"
+48,1583719200,2805,3/8/2020,19,"Salesforce Tower to Moffett Field, CA"
