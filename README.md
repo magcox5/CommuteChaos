@@ -22,23 +22,26 @@ Google Directions API - doesn’t have historical data, but can give you a predi
 TomTom API - charges a fee for using their data, so we didn’t pursue it
 MapQuest - Does not store historical data.
 
-# Conclusion:  We couldn’t get historical data for a complete route, so we opted to change our question.
+#### Conclusion:  We couldn’t get historical data for a complete route, so we opted to change our question.
 
 What does the commute look like in the Bay Area from various locations?
 Initially, we each used google maps to find how long each of our commutes were projected to take.  In the Google Maps API, you can specify either “Depart At” or “Arrive By” times.  When we changed the departure times, we found that the commute duration varied quite a bit.  So we decided to explore commute start time for each day of the week. Since the Google Directions API only lets you enter today’s or future dates, we chose the first week in March to explore, as there are no holidays that week.
 
-# Conclusion:  The commute with the most variation of our 4 commutes was the Moffett Field to San Francisco commute, so we focused on this one for our data analysis.
+#### Conclusion:  The commute with the most variation of our 4 commutes was the Moffett Field to San Francisco commute, so we focused on this one for our data analysis.
 
 ## How does the commute duration change day to day?
-# We created 2 charts showing average commute time to and from work to answer this question:
+## We created 2 charts showing average commute time to and from work to answer this question:
 
-![commutedurationbydayofweekam](images/%20Commute%20duration%20by%20Date%20(AM).png)
-![commutedurationbydayofweekpm](images/%20Commute%20duration%20by%20Date%20(PM).png)
-![homecommutebyhour](images/%20home%20commute%20by%20hour(PM).png)
+![avgcommutebyday](images/averagecommutedurationbydayofweek.png)
 
-# Conclusion:  If you want to have the shortest commute times, weekends for this commute are better on average than other days. At this level of detail, you’d want to plan for at least an hour in the car.
+
+
+## Conclusion:  If you want to have the shortest commute times, weekends for this commute are better on average than other days. At this level of detail, you’d want to plan for at least an hour in the car.
 
 How does the commute duration change based on departure time?
+![avgcommutenorthbound](images/weekdaycommutenorthbound.png)
+![avgcommutesouthbound](images/weekdaycommutesouthboundpm.png)
+
 We created bar charts for each day of the week, one bar for each hour, to see how the commute varied day to day (similar to the bar graphs above).  We also created a table with commute times, where you can see the best and worst times to depart for a given commute.
 
 
@@ -50,7 +53,7 @@ Leaving earlier in the morning produced the shortest commute time.  By the after
 So, in general, the shortest commute home was greater than the shortest commute to work.
 
 
-To view our presentation, go to: Commute Chaos
+To view our presentation, go to: Commute Chaos https://docs.google.com/presentation/d/1jQOVKio0DbOQ2SftTcMTmUe_c0egYDQLiz2pGnyXCJQ/edit?usp=sharing
 
 
 
